@@ -1,0 +1,2 @@
+E:\VSP33333\VisualNovelEngine\obj\Debug\VisualNovelEngine.Model.csproj.AssemblyReference.cache
+E:\VSP33333\VisualNovelEngine\obj\Debug\VisualNovelEngine.Model.csproj.CoreCompileInputs.cache

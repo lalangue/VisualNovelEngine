@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VSP33333\\VisualNovelEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|e:\\vsp33333\\visualnovelengine\\visualnovelengine\\model\\page\\page.basicmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\page\\page.basicmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|E:\\VSP33333\\VisualNovelEngine\\visualnovelengine\\viewer\\shared\\viewer.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\shared\\viewer.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|E:\\VSP33333\\VisualNovelEngine\\visualnovelengine\\model\\page\\page.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\page\\page.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|E:\\VSP33333\\VisualNovelEngine\\visualnovelengine\\viewer\\pages\\editpage\\editpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\pages\\editpage\\editpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|E:\\VSP33333\\VisualNovelEngine\\visualnovelengine\\model\\project\\project.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\project\\project.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|E:\\VSP33333\\VisualNovelEngine\\visualnovelengine\\model\\group\\group.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\group\\group.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|E:\\VSP33333\\VisualNovelEngine\\visualnovelengine\\viewmodel\\viewmodels\\pageviewmodel\\pageviewmodel.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewmodel\\viewmodels\\pageviewmodel\\pageviewmodel.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|E:\\VSP33333\\VisualNovelEngine\\visualnovelengine\\viewmodel\\shared\\viewmodel.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewmodel\\shared\\viewmodel.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|E:\\VSP33333\\VisualNovelEngine\\visualnovelengine\\viewmodel\\projectviewmodel\\projectviewmodel.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewmodel\\projectviewmodel\\projectviewmodel.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|E:\\VSP33333\\VisualNovelEngine\\visualnovelengine\\viewmodel\\viewmodels\\groupviewmodel\\groupviewmodel.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewmodel\\viewmodels\\groupviewmodel\\groupviewmodel.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|E:\\VSP33333\\VisualNovelEngine\\visualnovelengine\\viewer\\pages\\consolepage\\consolepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\pages\\consolepage\\consolepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|E:\\VSP33333\\VisualNovelEngine\\visualnovelengine\\viewer\\pages\\startuppage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\pages\\startuppage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|E:\\VSP33333\\VisualNovelEngine\\visualnovelengine\\viewer\\pages\\startuppage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC403A7C-0AD6-46B3-B4AF-C2E4307F21DD}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\pages\\startuppage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page.Properties.cs",
+              "DocumentMoniker": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Model\\Page\\Page.Properties.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Page\\Page.Properties.cs",
+              "ToolTip": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Model\\Page\\Page.Properties.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Page\\Page.Properties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T13:52:46.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Viewer.Properties.cs",
+              "DocumentMoniker": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Viewer\\Shared\\Viewer.Properties.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\Shared\\Viewer.Properties.cs",
+              "ToolTip": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Viewer\\Shared\\Viewer.Properties.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\Shared\\Viewer.Properties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:03:14.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page.BasicMethods.cs",
+              "DocumentMoniker": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Model\\Page\\Page.BasicMethods.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Page\\Page.BasicMethods.cs",
+              "ToolTip": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Model\\Page\\Page.BasicMethods.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Page\\Page.BasicMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:16:18.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditPage.xaml",
+              "DocumentMoniker": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Viewer\\Pages\\EditPage\\EditPage.xaml",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\Pages\\EditPage\\EditPage.xaml",
+              "ToolTip": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Viewer\\Pages\\EditPage\\EditPage.xaml",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\Pages\\EditPage\\EditPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T13:55:02.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewModel.Properties.cs",
+              "DocumentMoniker": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\ViewModel\\Shared\\ViewModel.Properties.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\ViewModel\\Shared\\ViewModel.Properties.cs",
+              "ToolTip": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\ViewModel\\Shared\\ViewModel.Properties.cs",
+              "RelativeToolTip": "VisualNovelEngine\\ViewModel\\Shared\\ViewModel.Properties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:02:49.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectViewModel.Properties.cs",
+              "DocumentMoniker": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\ViewModel\\ProjectViewModel\\ProjectViewModel.Properties.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\ViewModel\\ProjectViewModel\\ProjectViewModel.Properties.cs",
+              "ToolTip": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\ViewModel\\ProjectViewModel\\ProjectViewModel.Properties.cs",
+              "RelativeToolTip": "VisualNovelEngine\\ViewModel\\ProjectViewModel\\ProjectViewModel.Properties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:01:49.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroupViewModel.Properties.cs",
+              "DocumentMoniker": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\ViewModel\\ViewModels\\GroupViewModel\\GroupViewModel.Properties.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\ViewModel\\ViewModels\\GroupViewModel\\GroupViewModel.Properties.cs",
+              "ToolTip": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\ViewModel\\ViewModels\\GroupViewModel\\GroupViewModel.Properties.cs",
+              "RelativeToolTip": "VisualNovelEngine\\ViewModel\\ViewModels\\GroupViewModel\\GroupViewModel.Properties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:01:58.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageViewModel.Properties.cs",
+              "DocumentMoniker": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\ViewModel\\ViewModels\\PageViewModel\\PageViewModel.Properties.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\ViewModel\\ViewModels\\PageViewModel\\PageViewModel.Properties.cs",
+              "ToolTip": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\ViewModel\\ViewModels\\PageViewModel\\PageViewModel.Properties.cs",
+              "RelativeToolTip": "VisualNovelEngine\\ViewModel\\ViewModels\\PageViewModel\\PageViewModel.Properties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:02:03.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Group.Properties.cs",
+              "DocumentMoniker": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Model\\Group\\Group.Properties.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Group\\Group.Properties.cs",
+              "ToolTip": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Model\\Group\\Group.Properties.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Group\\Group.Properties.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T13:52:18.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project.Properties.cs",
+              "DocumentMoniker": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Model\\Project\\Project.Properties.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Project\\Project.Properties.cs",
+              "ToolTip": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Model\\Project\\Project.Properties.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Project\\Project.Properties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T13:51:54.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsolePage.xaml",
+              "DocumentMoniker": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Viewer\\Pages\\ConsolePage\\ConsolePage.xaml",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\Pages\\ConsolePage\\ConsolePage.xaml",
+              "ToolTip": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Viewer\\Pages\\ConsolePage\\ConsolePage.xaml",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\Pages\\ConsolePage\\ConsolePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T13:54:52.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Viewer\\Pages\\StartupPage\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\Pages\\StartupPage\\MainWindow.xaml",
+              "ToolTip": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Viewer\\Pages\\StartupPage\\MainWindow.xaml",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\Pages\\StartupPage\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T13:51:09.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Viewer\\Pages\\StartupPage\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\Pages\\StartupPage\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\VSP33333\\VisualNovelEngine\\VisualNovelEngine\\Viewer\\Pages\\StartupPage\\MainWindow.xaml.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\Pages\\StartupPage\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T13:51:09.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
