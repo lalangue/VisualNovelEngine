@@ -1,0 +1,576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|c:\\project\\visualnovelengine\\visualnovelengine_1_0_0\\visualnovelengine\\model\\page\\pageedit\\richtextfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\page\\pageedit\\richtextfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\viewer\\editwindow\\editwindow.imagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\editwindow\\editwindow.imagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\model\\cacha\\resourcecache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\cacha\\resourcecache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\viewer\\editwindow\\editwindow.musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\editwindow\\editwindow.musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\viewer\\editwindow\\editwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\editwindow\\editwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\model\\page\\autosavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\page\\autosavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\viewer\\editwindow\\editwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\editwindow\\editwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\model\\navigation\\navigationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\navigation\\navigationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\viewer\\consolewindow\\consolewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\consolewindow\\consolewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\model\\navigation\\jumpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\navigation\\jumpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\viewer\\mainwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\mainwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\viewer\\mainwindow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\mainwindow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\viewer\\editwindow\\editwindow.keybinds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\editwindow\\editwindow.keybinds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\viewer\\editwindow\\editwindow.pagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\editwindow\\editwindow.pagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\viewer\\editwindow\\editwindow.textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\editwindow\\editwindow.textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\model\\page\\pagedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\page\\pagedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\model\\pathgetter\\pathgetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\pathgetter\\pathgetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\model\\page\\pageedit\\writepagejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\page\\pageedit\\writepagejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\viewer\\mainwindow\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\mainwindow\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\model\\page\\pagejsoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\page\\pagejsoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\viewer\\consolewindow\\consolewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\viewer\\consolewindow\\consolewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\model\\theme\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\theme\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\model\\project\\projectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\project\\projectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\model\\logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\model\\input\\keyboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\input\\keyboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\model\\group\\groupedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\group\\groupedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\model\\group\\groupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\model\\group\\groupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\visualnovelengine\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{24707B67-7348-42DB-A4B6-7CA409A8265A}|VisualNovelEngine\\VisualNovelEngine.csproj|solutionrelative:visualnovelengine\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:283709:0:{1a46fd64-28d5-0019-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RichTextFileHandler.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Page\\PageEdit\\RichTextFileHandler.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Page\\PageEdit\\RichTextFileHandler.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Page\\PageEdit\\RichTextFileHandler.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Page\\PageEdit\\RichTextFileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:38:36.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditWindow.MusicManager.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.MusicManager.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.MusicManager.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.MusicManager.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.MusicManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADgvxoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:58:11.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.xaml.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.xaml.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.xaml.cs",
+              "ViewState": "AgIAAFEBAAAAAAAAAAAawF4BAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:58:15.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditWindow.ImageManager.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.ImageManager.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.ImageManager.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.ImageManager.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.ImageManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA4wBAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:44:35.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResourceCache.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Cacha\\ResourceCache.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Cacha\\ResourceCache.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Cacha\\ResourceCache.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Cacha\\ResourceCache.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAawEUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:29:33.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\packages.config",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\packages.config",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\packages.config",
+              "RelativeToolTip": "VisualNovelEngine\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-16T02:48:04.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoSaveManager.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Page\\AutoSaveManager.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Page\\AutoSaveManager.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Page\\AutoSaveManager.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Page\\AutoSaveManager.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAADgv6UAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:39:49.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditWindow.xaml",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.xaml",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.xaml",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.xaml",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-16T02:57:55.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavigationManager.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Navigation\\NavigationManager.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Navigation\\NavigationManager.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Navigation\\NavigationManager.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Navigation\\NavigationManager.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAawKgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:38:23.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsoleWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\ConsoleWindow\\ConsoleWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\ConsoleWindow\\ConsoleWindow.xaml.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\ConsoleWindow\\ConsoleWindow.xaml.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\ConsoleWindow\\ConsoleWindow.xaml.cs",
+              "ViewState": "AgIAALoBAAAAAAAAAAAawM8BAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:42:00.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JumpManager.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Navigation\\JumpManager.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Navigation\\JumpManager.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Navigation\\JumpManager.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Navigation\\JumpManager.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAADgvxYBAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:35:24.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\MainWindow\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\MainWindow\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\MainWindow\\MainWindow.xaml.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\MainWindow\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAawLgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:56:46.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\MainWindow\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\MainWindow\\MainWindow.xaml",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\MainWindow\\MainWindow.xaml",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\MainWindow\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-16T04:15:57.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditWindow.Keybinds.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.Keybinds.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.Keybinds.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.Keybinds.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.Keybinds.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:58:04.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditWindow.PageManager.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.PageManager.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.PageManager.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.PageManager.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.PageManager.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAywD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:04:14.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditWindow.TextManager.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.TextManager.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.TextManager.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.TextManager.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\EditWindow\\EditWindow.TextManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:06:26.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PageData.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Page\\PageData.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Page\\PageData.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Page\\PageData.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Page\\PageData.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwv1YAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:39:55.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PathGetter.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\PathGetter\\PathGetter.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\PathGetter\\PathGetter.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\PathGetter\\PathGetter.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\PathGetter\\PathGetter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:41:41.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WritePageJson.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Page\\PageEdit\\WritePageJson.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Page\\PageEdit\\WritePageJson.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Page\\PageEdit\\WritePageJson.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Page\\PageEdit\\WritePageJson.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAAABMBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:38:43.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\MainWindow\\App.xaml",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\MainWindow\\App.xaml",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\MainWindow\\App.xaml",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\MainWindow\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-16T04:13:50.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PageJsonInfo.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Page\\PageJsonInfo.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Page\\PageJsonInfo.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Page\\PageJsonInfo.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Page\\PageJsonInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:39:58.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConsoleWindow.xaml",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\ConsoleWindow\\ConsoleWindow.xaml",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Viewer\\ConsoleWindow\\ConsoleWindow.xaml",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Viewer\\ConsoleWindow\\ConsoleWindow.xaml",
+              "RelativeToolTip": "VisualNovelEngine\\Viewer\\ConsoleWindow\\ConsoleWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-16T02:41:57.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ThemeManager.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Theme\\ThemeManager.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Theme\\ThemeManager.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Theme\\ThemeManager.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Theme\\ThemeManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:41:51.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProjectData.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Project\\ProjectData.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Project\\ProjectData.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Project\\ProjectData.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Project\\ProjectData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:41:43.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Logging\\Logger.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Logging\\Logger.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Logging\\Logger.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Logging\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:35:19.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "KeyboardManager.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Input\\KeyboardManager.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Input\\KeyboardManager.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Input\\KeyboardManager.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Input\\KeyboardManager.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAIwDABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:33:18.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GroupEdit.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Group\\GroupEdit.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Group\\GroupEdit.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Group\\GroupEdit.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Group\\GroupEdit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T03:52:20.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GroupData.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Group\\GroupData.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Model\\Group\\GroupData.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Model\\Group\\GroupData.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Model\\Group\\GroupData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:35:12.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:52:14.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:51:40.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "VisualNovelEngine\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:51:27.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\App.config",
+              "RelativeDocumentMoniker": "VisualNovelEngine\\App.config",
+              "ToolTip": "C:\\Project\\VisualNovelEngine\\VisualNovelEngine_1_0_0\\VisualNovelEngine\\App.config",
+              "RelativeToolTip": "VisualNovelEngine\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-16T02:47:56.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

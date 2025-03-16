@@ -1,0 +1,169 @@
+﻿<Window x:Class="VisualNovelEngine.Viewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VisualNovelEngine.Viewer"
+        mc:Ignorable="d"
+        Title="Visual Novel Engine" Height="720" Width="1280" 
+        WindowStartupLocation="CenterScreen" 
+        Background="{DynamicResource WindowBackgroundBrush}"
+        Foreground="{DynamicResource ForegroundBrush}"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        ResizeMode="CanResizeWithGrip">
+    
+
+
+    <Window.Resources>
+        <!-- 窗口阴影效果 -->
+        <DropShadowEffect x:Key="WindowShadow" BlurRadius="15" Direction="0" 
+                          Opacity="0.5" ShadowDepth="0" Color="#000000"/>
+
+        <!-- 淡入动画 -->
+        <Storyboard x:Key="FadeIn">
+            <DoubleAnimation Storyboard.TargetProperty="Opacity"
+                             From="0" To="1" Duration="0:0:0.3"/>
+        </Storyboard>
+    </Window.Resources>
+
+    <Border BorderThickness="1" BorderBrush="#33000000" CornerRadius="8" 
+            Background="{DynamicResource WindowBackgroundBrush}"
+            Effect="{StaticResource WindowShadow}">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="30"/>
+            </Grid.RowDefinitions>
+
+            <!-- 顶部标题栏 -->
+            <Grid Grid.Row="0" Background="Transparent" MouseLeftButtonDown="TitleBar_MouseLeftButtonDown">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Grid.Column="0" Text="Visual Novel Engine" 
+                           Margin="15,0,0,0" VerticalAlignment="Center"
+                           FontSize="16" FontWeight="Medium"
+                           Foreground="{DynamicResource ForegroundBrush}"/>
+
+                <StackPanel Grid.Column="2" Orientation="Horizontal" HorizontalAlignment="Right">
+                    <Button x:Name="MinimizeButton" Style="{StaticResource ModernButton}"
+                            Width="40" Height="40" Click="MinimizeButton_Click"
+                            ToolTip="最小化">
+                        <TextBlock Text="—" FontSize="16"/>
+                    </Button>
+                    <Button x:Name="MaximizeButton" Style="{StaticResource ModernButton}"
+                            Width="40" Height="40" Click="MaximizeButton_Click"
+                            ToolTip="最大化">
+                        <TextBlock Text="□" FontSize="16"/>
+                    </Button>
+                    <Button x:Name="CloseButton" Style="{StaticResource ModernButton}"
+                            Width="40" Height="40" Click="CloseButton_Click"
+                            ToolTip="关闭">
+                        <TextBlock Text="✕" FontSize="16"/>
+                    </Button>
+                </StackPanel>
+            </Grid>
+
+            <!-- 主要内容区域 -->
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="300"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- 左侧显示区域 -->
+                <Grid Grid.Column="0" Margin="15">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="200"/>
+                    </Grid.RowDefinitions>
+
+                    <!-- 工具栏 -->
+                    <Border Grid.Row="0" Background="{DynamicResource TextBackgroundBrush}" 
+                            CornerRadius="8" Margin="0,0,0,10">
+                        <StackPanel Orientation="Horizontal" Margin="10,5">
+                            <Button x:Name="NewProjectButton" Style="{StaticResource ModernButton}"
+                                    Content="新建项目" Click="NewProject_Click" Margin="0,0,5,0"
+                                    ToolTip="创建新项目"/>
+                            <Button x:Name="OpenProjectButton" Style="{StaticResource ModernButton}"
+                                    Content="打开项目" Click="OpenProject_Click" Margin="5,0"
+                                    ToolTip="打开现有项目"/>
+                            <Separator Style="{StaticResource {x:Static ToolBar.SeparatorStyleKey}}" 
+                                       Margin="5,0"/>
+                            <Button x:Name="BackButton" Style="{StaticResource ModernButton}"
+                                    Content="◀" Click="Back_Click" Margin="5,0"
+                                    ToolTip="返回上一页"/>
+                            <Button x:Name="ForwardButton" Style="{StaticResource ModernButton}"
+                                    Content="▶" Click="Forward_Click" Margin="5,0"
+                                    ToolTip="前往下一页"/>
+                            <Separator Style="{StaticResource {x:Static ToolBar.SeparatorStyleKey}}" 
+                                       Margin="5,0"/>
+                            <Button x:Name="OpenConsoleButton" Style="{StaticResource ModernButton}"
+                                    Content="控制台" Click="OpenConsole_Click" Margin="5,0"
+                                    ToolTip="打开控制台窗口"/>
+                            <Separator Style="{StaticResource {x:Static ToolBar.SeparatorStyleKey}}" 
+                                       Margin="5,0"/>
+                            <ToggleButton x:Name="ThemeToggle" 
+                                          Style="{StaticResource ModernToggleButton}"
+                                          Content="🌙" 
+                                          Click="ThemeToggle_Click" 
+                                          Margin="5,0"
+                                          ToolTip="切换明暗主题"/>
+                        </StackPanel>
+                    </Border>
+
+                    <!-- 图片显示区域 -->
+                    <Border Grid.Row="1" Background="Transparent" Margin="0,0,0,10">
+                        <Image x:Name="BackgroundImage" Stretch="Uniform"/>
+                    </Border>
+
+                    <!-- 富文本显示区域 -->
+                    <Border Grid.Row="2" Background="{DynamicResource TextBackgroundBrush}" 
+                            CornerRadius="8">
+                        <RichTextBox x:Name="TextDisplay"
+                                     Style="{StaticResource ModernRichTextBox}"
+                                     IsReadOnly="True"
+                                     Margin="10"/>
+                    </Border>
+                </Grid>
+
+                <!-- 右侧控制面板 -->
+                <Border Grid.Column="1" Background="{DynamicResource TextBackgroundBrush}" 
+                        CornerRadius="8" Margin="0,15,15,15">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+
+                        <TextBlock Text="控制面板" FontSize="16" FontWeight="Medium" 
+                                   Margin="15,15,15,5" Foreground="{DynamicResource ForegroundBrush}"/>
+
+                        <ListBox x:Name="LogList" Grid.Row="1" Margin="15,5,15,15"
+                                 Style="{StaticResource ModernListBox}"
+                                 BorderThickness="0"/>
+                    </Grid>
+                </Border>
+            </Grid>
+
+            <!-- 底部状态栏 -->
+            <Border Grid.Row="2" Background="{DynamicResource TextBackgroundBrush}" 
+                    CornerRadius="0,0,8,8">
+                <Grid>
+                    <TextBlock x:Name="StatusText" Text="就绪" Margin="15,0,0,0"
+                               VerticalAlignment="Center" Foreground="{DynamicResource ForegroundBrush}"/>
+
+                    <TextBlock x:Name="VersionText" Text="v1.0.0" Margin="0,0,15,0"
+                               HorizontalAlignment="Right" VerticalAlignment="Center"
+                               Foreground="{DynamicResource ForegroundBrush}" Opacity="0.7"/>
+                </Grid>
+            </Border>
+        </Grid>
+    </Border>
+</Window>

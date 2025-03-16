@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\VSP33333\VisualNovelEngine\VisualNovelEngine\obj\Debug\
+C:\Project\VisualNovelEngine\VisualNovelEngine_1_0_0\VisualNovelEngine\obj\Debug\
 VisualNovelEngine
 none
 false
 DEBUG;TRACE
-E:\VSP33333\VisualNovelEngine\VisualNovelEngine\Viewer\Pages\StartupPage\App.xaml
-3950133671
+C:\Project\VisualNovelEngine\VisualNovelEngine_1_0_0\VisualNovelEngine\Viewer\MainWindow\App.xaml
+3-602547082
 
-25-267178135
-151193013184
-Viewer\Pages\StartupPage\MainWindow.xaml;Viewer\Pages\ConsolePage\ConsolePage.xaml;Viewer\Pages\EditPage\EditPage.xaml;
+28-351758405
+381679577870
+Viewer\ConsoleWindow\ConsoleWindow.xaml;Viewer\EditWindow\EditWindow.xaml;Viewer\MainWindow\MainWindow.xaml;
 
-True
+False
 
